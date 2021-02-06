@@ -90,7 +90,7 @@
     "babel-preset-expo": "8.1.0",
     "eslint-config-prettier": "6.11.0",
     "husky": "4.2.5",
-    "lint-staged": "10.1.7",
+    "lint-staged": "10.5.4",
     "prettier": "2.0.5",
     "rimraf": "3.0.2",
     "standard-version": "7.1.0",
