@@ -79,7 +79,7 @@
     "universal-rxjs-ajax": "2.0.4"
   },
   "devDependencies": {
-    "@babel/core": "7.9.0",
+    "@babel/core": "7.24.3",
     "@commitlint/cli": "8.3.5",
     "@commitlint/config-angular": "8.3.4",
     "@expo/config": "^3.2.0",
