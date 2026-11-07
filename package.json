@@ -84,7 +84,7 @@
     "@commitlint/config-angular": "8.3.4",
     "@expo/config": "^3.2.0",
     "@types/react": "16.9.34",
-    "@types/react-native": "0.62.4",
+    "@types/react-native": "0.73.0",
     "@typescript-eslint/eslint-plugin": "2.30.0",
     "@typescript-eslint/parser": "2.30.0",
     "babel-preset-expo": "8.1.0",
